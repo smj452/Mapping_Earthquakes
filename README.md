@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 ## Purpose of the Project
 The purpose of this project is to build insightful data visualizations with interactive features for earthquakes around the world.The earthquake data is retrieved using JavaScript and the D3 leaflet libraries and data is plotted on a Mapbox map through an API request.
 
